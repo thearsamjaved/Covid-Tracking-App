@@ -1,6 +1,5 @@
-# chapter_10_covid_app
+# Covid Tracking Application
 
-A new Flutter project.
 
 ## Getting Started
 
